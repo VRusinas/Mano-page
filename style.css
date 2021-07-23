@@ -10,7 +10,7 @@ html{
   font-size: 12px;
 }
 body{
-  background: linear-gradient(#721140f0, #B71C1C, #721140f0);
+  background: linear-gradient(#721140f0, #192355);
   background-size: cover;
   color: #fdcbfe;
   font-family: Montserrat;
@@ -76,5 +76,9 @@ img
    position:relative;
    border:1px solid #fdcbfe;
    padding:2px;
-   background:#fdcbfe;;
+   background:#fdcbfe;
+}
+.extra-margin{
+  margin-top: 10rem;
+  margin-bottom: 10rem;
 }
